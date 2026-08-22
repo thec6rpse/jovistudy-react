@@ -4,21 +4,21 @@ const itensGaleria = [
     legenda: 'Seleção de diretório',
     metadados: 'JoviSmartCam',
     // Placeholder - em produção use imagens reais do protótipo
-    src: 'https://images.unsplash.com/photo-1512941937669-90a1b58d7ffe?w=600&h=400&fit=crop',
+    src: './public/img/camera.jpg',
     alt: 'Protótipo da interface da câmera',
   },
   {
     titulo: 'FIGMA - Protótipo do APP de Estudos',
     legenda: 'Tela inicial ao abrir o APP',
     metadados: 'APP de Estudos',
-    src: 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&h=400&fit=crop',
+    src: '/public/img/app_figma.jpg',
     alt: 'Tela inicial do app de estudos',
   },
   {
     titulo: 'FIGMA - Protótipo do APP de Estudos',
     legenda: 'Demonstração da tela de resumo de estudos',
     metadados: 'APP de Estudos',
-    src: 'https://images.unsplash.com/photo-1456513080080-7e9e9a814ea0?w=600&h=400&fit=crop',
+    src: '/public/img/app_figma2.jpg',
     alt: 'Tela de resumo do app',
   },
 ];
